@@ -7,3 +7,4 @@ return "HAPPY NEW YEAR!"
 end
 
 def coundown_with_sleep
+end
